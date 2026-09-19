@@ -1422,5 +1422,61 @@
   ],
   "bytes": 61208,
   "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Vasara%202%20%28set%201%29.png"
+ },
+ "raiden": {
+  "size": [
+   512,
+   720
+  ],
+  "bytes": 59178,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Raiden%20%28set%201%29.png"
+ },
+ "raiden2": {
+  "size": [
+   512,
+   670
+  ],
+  "bytes": 65598,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Raiden%20II%20%28US%2C%20set%201%29.png"
+ },
+ "raidendx": {
+  "size": [
+   512,
+   666
+  ],
+  "bytes": 47120,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Raiden%20DX%20%28UK%29.png"
+ },
+ "viprp1": {
+  "size": [
+   512,
+   731
+  ],
+  "bytes": 44416,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Viper%20Phase%201%20%28New%20Version%2C%20World%29.png"
+ },
+ "rdft": {
+  "size": [
+   512,
+   719
+  ],
+  "bytes": 71206,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Raiden%20Fighters%20%28Germany%29.png"
+ },
+ "rdft2": {
+  "size": [
+   512,
+   672
+  ],
+  "bytes": 74256,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Raiden%20Fighters%202%20-%20Operation%20Hell%20Dive%20%28US%29.png"
+ },
+ "rfjet": {
+  "size": [
+   512,
+   727
+  ],
+  "bytes": 70570,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/98a416763471b2325914712aec42b9fe7cf5d37b/Named_Boxarts/Raiden%20Fighters%20Jet%20%28Germany%29.png"
  }
 }
