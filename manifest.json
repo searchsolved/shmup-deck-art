@@ -1478,5 +1478,69 @@
   ],
   "bytes": 100548,
   "source": "https://images.launchbox-app.com/4281fdfc-8979-4eff-b31a-648a95bc551e.png"
+ },
+ "cyvern": {
+  "size": [
+   640,
+   891
+  ],
+  "bytes": 74688,
+  "source": "https://images.launchbox-app.com/cyvern.png"
+ },
+ "sengekis": {
+  "size": [
+   638,
+   900
+  ],
+  "bytes": 112024,
+  "source": "https://images.launchbox-app.com/7a4cf09c-99be-40ec-8081-1ea2303cc987.jpg"
+ },
+ "twineagl": {
+  "size": [
+   640,
+   900
+  ],
+  "bytes": 112756,
+  "source": "https://images.launchbox-app.com/60aa935b-ffc6-4cf4-8cd9-08311aa44be7.jpg"
+ },
+ "arbalest": {
+  "size": [
+   420,
+   661
+  ],
+  "bytes": 44666,
+  "source": "https://images.launchbox-app.com/66aa34cd-8ce7-4afb-8926-58a5b54770f5.png"
+ },
+ "metafox": {
+  "size": [
+   592,
+   900
+  ],
+  "bytes": 81084,
+  "source": "https://images.launchbox-app.com/0641b328-9643-4f58-ad52-13cc28d69183.jpg"
+ },
+ "twinhawk": {
+  "size": [
+   640,
+   900
+  ],
+  "bytes": 109352,
+  "source": "https://images.launchbox-app.com/470784ba-e943-4ece-a4bb-43d0c7f37ae6.jpg"
+ },
+ "gigandes": {
+  "size": [
+   635,
+   900
+  ],
+  "bytes": 72008,
+  "source": "https://images.launchbox-app.com/9a33fbc6-9cdd-43f4-878e-01ebd3850242.jpg"
+ },
+ "earthjkr": {
+  "size": [
+   615,
+   900
+  ],
+  "bytes": 76468,
+  "source": "https://images.launchbox-app.com/57ad541c-57f9-4b59-a377-e257892e0b92.jpg"
  }
 }
