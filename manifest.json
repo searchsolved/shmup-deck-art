@@ -1542,5 +1542,21 @@
   ],
   "bytes": 76468,
   "source": "https://images.launchbox-app.com/57ad541c-57f9-4b59-a377-e257892e0b92.jpg"
+ },
+ "galmedes": {
+  "size": [
+   636,
+   900
+  ],
+  "bytes": 101930,
+  "source": "https://images.launchbox-app.com/8ef695cb-aafd-4f9c-87f7-e0b2c473d921.jpg"
+ },
+ "asuka": {
+  "size": [
+   637,
+   900
+  ],
+  "bytes": 76062,
+  "source": "https://images.launchbox-app.com/de7b0a91-8dc4-4eb3-be92-0457bb151836.jpg"
  }
 }
