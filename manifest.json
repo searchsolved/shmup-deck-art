@@ -191,14 +191,6 @@
   "bytes": 179156,
   "source": "https://images.launchbox-app.com/1106b7df-4ccf-4562-bd50-431f592dc241.jpg"
  },
- "gyruss": {
-  "size": [
-   630,
-   900
-  ],
-  "bytes": 59854,
-  "source": "https://images.launchbox-app.com/69a509f0-39ab-426f-836d-f67735aa2f30.jpg"
- },
  "ajax": {
   "size": [
    640,
@@ -1729,11 +1721,11 @@
  },
  "aerofgt": {
   "size": [
-   640,
-   834
+   632,
+   900
   ],
-  "bytes": 96218,
-  "source": "https://images.launchbox-app.com/d5a1cb05-6427-4dbf-9788-99797fcd4170.jpg"
+  "bytes": 54982,
+  "source": "https://adb.arcadeitalia.net/media/mame.current/flyers/aerofgt.png"
  },
  "aerofgts": {
   "size": [
@@ -1905,11 +1897,11 @@
  },
  "hyprduel": {
   "size": [
-   640,
-   835
+   512,
+   683
   ],
-  "bytes": 80818,
-  "source": "https://images.launchbox-app.com/cc9c1e21-bc76-4d7d-aafa-cb61d8d3b870.jpg"
+  "bytes": 88208,
+  "source": "https://raw.githubusercontent.com/libretro-thumbnails/MAME/master/Named_Boxarts/Hyper%20Duel%20(Japan%20set%201).png"
  },
  "lastduel": {
   "size": [
